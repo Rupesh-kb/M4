@@ -138,7 +138,8 @@ Step 7: After the loop, check the value of flag:
 Step 8: End the program.
 
 ## PROGRAM
-![image](https://github.com/user-attachments/assets/07e63979-fdd4-432b-9c81-0358936156ac)
+![image](https://github.com/user-attachments/assets/0186ddaf-094d-40eb-8c93-f8fd98dbeca2)
+
 
 
 ## OUTPUT
